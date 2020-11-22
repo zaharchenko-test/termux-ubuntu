@@ -14,4 +14,5 @@ dpkg --configure -a
 apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0CC3FD642696BFC8
 chmod 4755 /usr/bin/sudo
 rm -rf /etc/skel/.profile.1 /root/.profile.1
-/usr/share/andronix/firstrun; exit
+/ usr / share / andronix / firstrun; Выход
+ Взаимодействие с другими людьми
